@@ -6,7 +6,7 @@ function App() {
     <>
       <h3>Hola!</h3>
       <h2>No se programar.</h2>
-      <h1>{PI}</h1>
+      <h1>Pi = {PI}</h1>
     </>
   );
 }
